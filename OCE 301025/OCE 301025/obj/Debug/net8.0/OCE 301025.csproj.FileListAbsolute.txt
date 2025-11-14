@@ -1,0 +1,28 @@
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.exe
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.deps.json
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.runtimeconfig.json
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.dll
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.pdb
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.AssemblyInfo.cs
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.dll
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\refint\OCE 301025.dll
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.pdb
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.genruntimeconfig.cache
+C:\Users\aaron\source\repos\OCE 301025\OCE 301025\obj\Debug\net8.0\ref\OCE 301025.dll
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.AssemblyInfo.cs
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.dll
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\refint\OCE 301025.dll
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.pdb
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.exe
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.deps.json
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.runtimeconfig.json
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.dll
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\bin\Debug\net8.0\OCE 301025.pdb
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\OCE 301025.genruntimeconfig.cache
+C:\Users\Student\Downloads\OCE 301025\OCE 301025\OCE 301025\obj\Debug\net8.0\ref\OCE 301025.dll
